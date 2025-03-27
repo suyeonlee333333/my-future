@@ -69,7 +69,7 @@ Telegam Bot을 연동하여 사용자가 실시간으로 자리 확인 가능
 - Spring boot, Node.js, MySQL 등을 이용하여 예약처리 속도 30% 향상  동시 예약 충돌 방지 로직 개선  
 - ✅ 결제 시스템 개발    
 - 사용자 인증, 요금 정산, 프로모션 적용 등 OAuth 2.0, JWT, Kafka를 이용하여 실패율 개선  
-- ✅ 실시간 차령 상태 모니터링  
+- ✅ 실시간 차량 상태 모니터링  
 - MQTT,WebScoket 등을 이용해 실시간 차량 상태 업데이트 속도 개선, 비정상 주행 감지 기능 추가
 
 ### 🔹 동아대학교  
@@ -80,6 +80,6 @@ Telegam Bot을 연동하여 사용자가 실시간으로 자리 확인 가능
 
 ## 📞 문의  
 📧 이메일: suyeon2005816@naver.com  
-🐙 GitHub: [GitHub 프로필 링크]  
+🐙 GitHub: [[GitHub 프로필 링크]  ](https://github.com/suyeonlee333333)  
 
 ---
